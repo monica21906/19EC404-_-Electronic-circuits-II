@@ -1,5 +1,5 @@
 ## Exp. No. 5
-**Date:**  
+**Date:**  27/10/25
 
 ## POSITIVE AND NEGATIVE CLAMPER CIRCUITS
 <img width="740" height="585" alt="image" src="https://github.com/user-attachments/assets/dc3afb1d-31c1-4b7c-b5af-65ddfe042778" />
@@ -10,15 +10,23 @@
 <img width="464" height="516" alt="image" src="https://github.com/user-attachments/assets/6a377228-3ac4-4938-b19a-ac8bd445642f" />
 <img width="454" height="463" alt="image" src="https://github.com/user-attachments/assets/44f16021-01f2-4a20-8255-fd735ad940aa" />
 <img width="493" height="234" alt="image" src="https://github.com/user-attachments/assets/e34165d8-5303-47b8-84ea-4b7fde538cfe" />
+<img width="812" height="1463" alt="image" src="https://github.com/user-attachments/assets/f940bd1d-955c-48ae-bb29-e8e12d0c3fe9" />
+<img width="892" height="1523" alt="image" src="https://github.com/user-attachments/assets/d2587f43-1a60-47f3-b768-6e16fe429e8b" />
+
 
 
 # Tabulation
+<img width="1080" height="1015" alt="image" src="https://github.com/user-attachments/assets/cac206f6-25fe-43e6-a655-a7c0c1e33e39" />
 
 
 # Graph
+![WhatsApp Image 2025-11-20 at 20 45 03_b434603d](https://github.com/user-attachments/assets/eea0b1a9-4562-415d-9d75-481b1f36bdbd)
+![WhatsApp Image 2025-11-20 at 20 45 30_5c832db2](https://github.com/user-attachments/assets/d732bae9-42d1-4d7f-acfe-0066f888d8df)
 
 
 # Sample images 
 
+<img width="1485" height="837" alt="image" src="https://github.com/user-attachments/assets/edd6c9e4-32f8-4a05-b20b-1f7bbc97884a" />
 
 # Result
+Thus, different clamper circuits are studied and theier output waveforms are plotted.
