@@ -21,7 +21,8 @@
 |      9.6v     |     20ms         |     50.04hz                 |    10.13                    |
 
 # Graph
-![WhatsApp Image 2025-11-20 at 20 25 07_758a1dd9](https://github.com/user-attachments/assets/370be530-6747-4725-9afc-4c9863e6d782)
+![WhatsApp Image 2025-11-21 at 19 34 31_6d0bc9fc](https://github.com/user-attachments/assets/afdddbc4-ad96-46b6-bee7-316fe71e6778)
+
 
 
 
