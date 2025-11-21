@@ -30,11 +30,10 @@
 <img width="700" height="1280" alt="image" src="https://github.com/user-attachments/assets/08e5d5e5-d432-42c7-a15b-b8815267933e" />
 
 # Graph
-![WhatsApp Image 2025-11-20 at 20 37 43_c95465c6](https://github.com/user-attachments/assets/c94fcf29-3c84-4635-b19f-5c69af119963)
 
-![WhatsApp Image 2025-11-20 at 20 38 05_52c977f6](https://github.com/user-attachments/assets/3234ea63-3c18-4422-a74f-2a754d5926b3)
+![WhatsApp Image 2025-11-21 at 19 36 47_5049bff8](https://github.com/user-attachments/assets/f90b67ce-c31c-443c-8b2d-ea73cf6c6471)
 
-
+![WhatsApp Image 2025-11-21 at 19 37 19_0e8b37f3](https://github.com/user-attachments/assets/1fc03ed5-ca38-4a42-8d1b-cd217e263433)
 
 # Sample images 
 <img width="1485" height="837" alt="image" src="https://github.com/user-attachments/assets/b2d17e00-34fe-45a9-a15e-8be34eb840ea" />
